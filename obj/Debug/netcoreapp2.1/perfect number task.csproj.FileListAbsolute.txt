@@ -1,0 +1,11 @@
+C:\Users\compu\Desktop\perfect number task\perfect number task\bin\Debug\netcoreapp2.1\perfect number task.deps.json
+C:\Users\compu\Desktop\perfect number task\perfect number task\bin\Debug\netcoreapp2.1\perfect number task.runtimeconfig.json
+C:\Users\compu\Desktop\perfect number task\perfect number task\bin\Debug\netcoreapp2.1\perfect number task.runtimeconfig.dev.json
+C:\Users\compu\Desktop\perfect number task\perfect number task\bin\Debug\netcoreapp2.1\perfect number task.dll
+C:\Users\compu\Desktop\perfect number task\perfect number task\bin\Debug\netcoreapp2.1\perfect number task.pdb
+C:\Users\compu\Desktop\perfect number task\perfect number task\obj\Debug\netcoreapp2.1\perfect number task.csprojAssemblyReference.cache
+C:\Users\compu\Desktop\perfect number task\perfect number task\obj\Debug\netcoreapp2.1\perfect number task.csproj.CoreCompileInputs.cache
+C:\Users\compu\Desktop\perfect number task\perfect number task\obj\Debug\netcoreapp2.1\perfect number task.AssemblyInfoInputs.cache
+C:\Users\compu\Desktop\perfect number task\perfect number task\obj\Debug\netcoreapp2.1\perfect number task.AssemblyInfo.cs
+C:\Users\compu\Desktop\perfect number task\perfect number task\obj\Debug\netcoreapp2.1\perfect number task.dll
+C:\Users\compu\Desktop\perfect number task\perfect number task\obj\Debug\netcoreapp2.1\perfect number task.pdb
